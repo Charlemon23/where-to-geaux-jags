@@ -1,22 +1,24 @@
 # Where to Geaux Jags
 
-A Python-based project designed to help students and visitors at Southern University quickly find campus locations, events, and resources.  
-Built to improve navigation, accessibility, and engagement with university activities.
+An early-stage Python-based project intended to support Southern University students and visitors by centralizing campus-related information.  
+Currently in the planning/prototype stage.
 
-## Features
-- Search for campus locations, events, and resources.
-- Provide directions and location details.
-- Mobile-friendly structure for quick lookups.
-- Scalable design to add more campus features over time.
+## Planned Features
+- Campus resource directory.
+- Event listings and announcements.
+- Mobile-friendly design for quick lookups.
 
-## Technologies
+## Current Status
+- Project is in early development.
+- Core architecture and layout planning in progress.
+
+## Technologies (Planned)
 - Python
-- Flask (or other backend framework)
+- Flask or Django
 - HTML/CSS/JavaScript
-- SQLite or other database (if applicable)
+- SQLite or other database
 
-## Installation
-Clone the repository:
-```bash
-git clone https://github.com/Charlemon23/where-to-geaux-jags.git
-cd where-to-geaux-jags
+## Next Steps
+- Define data sources for campus events and resources.
+- Build basic backend API.
+- Develop simple front-end interface.
